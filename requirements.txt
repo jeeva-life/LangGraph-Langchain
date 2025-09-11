@@ -15,3 +15,5 @@ faiss-cpu
 langchain_chroma
 langgraph
 gradio
+sqlite3
+langgraph-checkpoint-sqlite

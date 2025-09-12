@@ -17,3 +17,4 @@ langgraph
 gradio
 sqlite3
 langgraph-checkpoint-sqlite
+playwright

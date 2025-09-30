@@ -18,3 +18,9 @@ gradio
 sqlite3
 langgraph-checkpoint-sqlite
 playwright
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette

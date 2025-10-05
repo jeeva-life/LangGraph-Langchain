@@ -5,6 +5,7 @@ langchain-community
 pypdf
 bs4
 arxiv
+wikipedia
 pymupdf
 langchain-text-splitters
 langchain-openai
@@ -24,3 +25,4 @@ fastapi
 uvicorn
 langserve
 sse_starlette
+langchain_chroma

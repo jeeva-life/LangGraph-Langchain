@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 
-from src.langgraphAgenticAI.ui.uiconfigfile import Config
+from ..uiconfigfile import Config
 
 class LoadStreamlitUI:
     def __init__(self):
